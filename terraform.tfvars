@@ -1,0 +1,5 @@
+project = "devops-260809"
+region = "us-west1"
+machine_type = "n1-standard-1"
+zone = "us-west1-a"
+image = "debian-cloud/debian-9"
